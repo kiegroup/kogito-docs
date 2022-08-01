@@ -135,6 +135,14 @@ xref:eventing/consume-producing-events-with-kafka.adoc[Consuming and producing e
 Learn how to configure your Serverless Workflow application to produce and consume events using Apache Kafka
 --
 
+[.card]
+--
+[.card-title]
+xref:eventing/event-correlation-with-workflows.adoc[Event correlation with workflows]
+[.card-description]
+Learn how to configure event correlation in your Serverless Workflow application.
+--
+
 [.card-section]
 == Security
 
