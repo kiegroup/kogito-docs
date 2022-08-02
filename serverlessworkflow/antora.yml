@@ -17,10 +17,10 @@ asciidoc:
     # kogito_sw_gav: org.kie.kogito:kogito-quarkus-serverless-workflow:1.24.0.Final-redhat-00001
     kogito_sw_gav: kogito-quarkus-serverless-workflow
     
-    quarkus_version: 2.10.2.Final
+    quarkus_version: 2.11.1.Final
     java_min_version: 11+
-    maven_min_version: 3.8.1
-    graalvm_min_version: 22.0.0.2
+    maven_min_version: 3.8.6
+    graalvm_min_version: 22.1.0
     spec_version: 0.8
     vscode_version: 1.46.0
     kn-cli-version: 0.0.0
