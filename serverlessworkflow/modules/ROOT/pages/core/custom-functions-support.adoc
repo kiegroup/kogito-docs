@@ -438,7 +438,7 @@ To tell {product_name} you want to send the payload as a CloudEvent, you must de
   ]
 ----
 
-<1> Tells {product_name} to send the payload as a CloudEvent. Default is `false`
+<1> Tells {product_name} to send the payload as a CloudEvent. Default is `false`. See [Kubernetes Service Discovery](../cloud/quarkus/kubernetes-service-discovery.adoc) for supported Scheme and Kubernetes GVK 
 
 [WARNING]
 ====
