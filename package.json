@@ -20,7 +20,7 @@
   "dependencies": {
     "@antora/cli": "^3.1.15",
     "@antora/lunr-extension": "^1.0.0-alpha.6",
-    "@antora/site-generator": "^3.1.15",
+    "@antora/site-generator": "^3.2.2",
     "asciidoctor-emoji": "^1.0.0"
   }
 }
